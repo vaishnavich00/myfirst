@@ -1,3 +1,3 @@
 # myfirst
-this is my  first repository
-author : Vaishnavi chaudhary
+This is my  first repository
+Author : Vaishnavi Chaudhary
